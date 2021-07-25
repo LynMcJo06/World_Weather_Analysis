@@ -1,4 +1,5 @@
 # World_Weather_Analysis
+## Introduction
 In this module, I will learn how to gather website data using APIs.  I work for a company called PLANMYTRIP, which specializes in Internet-related services for the hotel and lodging industries.  Jack is head of analysis for the user interface team.  He wants to know how the company can provide real-time suggestions for our client's "ideal" hotels.  In Jack's perspective, "ideal" hotels are:  
 1.  within a given range of latitude and longitude, and
 2.  provide the right weather for the client.  
