@@ -33,11 +33,12 @@ The data analysis will be split into three main parts, or stages.
         - Latitude and humidity
         - Latitude and cloudiness
         - Latitude and wind speed
-    - Create a series of heatmaps using the Google Maps and Places API that showcases the following:
-      - Latitude and temperature
-      - Latitude and humidity
-      - Latitude and cloudiness
-      - Latitude and wind speed
+        - 
+     -  Create a series of heatmaps using the Google Maps and Places API that showcases the following:
+        - Latitude and temperature
+        - Latitude and humidity
+        - Latitude and cloudiness
+        - Latitude and wind speed
   3.  Visualize Travel Data
       Create a heatmap with pop-up markers that can display information on specific cities based on a customer's travel preferences. Complete these       steps:
       - Filter the Pandas DataFrame based on user inputs for a minimum and maximum temperature.
