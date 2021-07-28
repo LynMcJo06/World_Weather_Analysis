@@ -47,3 +47,5 @@ The data analysis will be split into three main parts, or stages.
       - Find a hotel from the cities' coordinates using Google's Maps and Places API, and Search Nearby feature.
       - Store the name of the first hotel in the DataFrame.
       - Add pop-up markers to the heatmap that display information about the city, current maximum temperature, and a hotel in the city.
+## Lesson 1
+In this lesson, I learned about four different random functions available through the random module.  Using Numpy and Random modules, I generated a random list of latitude and longitude coordinates using 1,500 as the size limit.  I used Python's citipy module with a "for" loop to generate a list of over 600 cities.  
