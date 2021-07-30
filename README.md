@@ -48,4 +48,6 @@ The data analysis will be split into three main parts, or stages.
       - Store the name of the first hotel in the DataFrame.
       - Add pop-up markers to the heatmap that display information about the city, current maximum temperature, and a hotel in the city.
 ## Lesson 1
-In this lesson, I learned about four different random functions available through the random module.  Using Numpy and Random modules, I generated a random list of latitude and longitude coordinates using 1,500 as the size limit.  I used Python's citipy module with a "for" loop to generate a list of over 600 cities.  
+In this lesson, I learned about four different random functions available through the random module.  Using Numpy and Random modules, I generated a random list of latitude and longitude coordinates using 1,500 as the size limit.  I used Python's citipy module with a "for" loop to generate a list of over 600 cities.
+## Lesson 2
+I registered for an OpenweatherMap API Key and saved it in a safe place.  I requested and retrieved data from the website and parsed the data using JavaScript Object Notation (JSON).  I retrieved weather data for over 500 cities, parsed it using JSON and converted the dictionary array to a DataFrame.  After creating the DataFrame, I reordered the columns so the table would be easier to read.  As a final step, I exported the DataFrame to a CSV file.
