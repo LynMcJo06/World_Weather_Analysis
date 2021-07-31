@@ -4,7 +4,6 @@ config.py
 # Adding additional files to gitignore
 API_practice.
 random_numbers.ipynb
-git status
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -135,3 +134,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+git status
+
